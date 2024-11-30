@@ -1,4 +1,7 @@
 # EBReader电子阅读器基础功能使用说明
+## 安装
+下载地址：https://plugins.jetbrains.com/plugin/download?rel=true&updateId=642178  
+插件初次开发，正在审核中，插件市场里搜不到，可以直接从这个地址下载。
 ## 功能介绍
 1   打开电子书,快捷键 ALT + o  
 2   调出历史阅读列表,快捷键 ALT + l(注意这里是小写的字母L)  
